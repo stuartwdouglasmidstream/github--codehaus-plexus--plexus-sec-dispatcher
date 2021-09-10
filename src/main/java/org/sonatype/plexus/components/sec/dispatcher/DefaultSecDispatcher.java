@@ -30,7 +30,7 @@ import org.sonatype.plexus.components.cipher.PlexusCipherException;
 import org.sonatype.plexus.components.sec.dispatcher.model.SettingsSecurity;
 
 /**
- * @author Oleg Gusakov</a>
+ * @author Oleg Gusakov
  */
 @Singleton
 @Named
